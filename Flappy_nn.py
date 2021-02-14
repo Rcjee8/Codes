@@ -1,3 +1,4 @@
+#config.txt file belongs to this neural network
 import pygame
 import neat
 import os
